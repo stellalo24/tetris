@@ -8,11 +8,7 @@ This is a faithful recreation of the classic Tetris game, featuring all seven st
 
 ## Demo
 
-![Tetris Gameplay Demo](example.gif)
 ![Tetris Gameplay Demo](demo.gif)
-![Alt text](https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif)
-<img src="https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif" alt="Description of GIF">
-![Alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/docs/8952xv.gif?raw=true)
 
 ## Features
 
